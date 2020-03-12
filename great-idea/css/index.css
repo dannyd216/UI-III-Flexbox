@@ -236,21 +236,20 @@ PADDING: 3PX 5PX 2PX 5PX;
 #servProdVis div {
 
 	margin: 1% 1% 0 2%;
-	display: inline-block;
 	width: 30%;
 }
 
 #serv {
-	display: inline-block;
+	
 }
 
 #prod {
-	display: inline-block;
+	
 
 }
 
 #vision {
-	display: inline-block;
+	
 }
 
 
@@ -303,11 +302,15 @@ MAIN SECTION
 #mainSection {
 
 	display: flex;
+	/* width: 50%; */
+	/* flex-wrap: wrap; */
+
 
 
 }
 
 #mainSection div {
-	
+
+	width: 45%;	
 
 }
