@@ -280,7 +280,7 @@ address {
 
 footer {
 	font-size: 1em;
-	
+
 	text-align: center;
 
 	font-weight: bold;
@@ -382,6 +382,8 @@ BOTTOM SECTION
 
 	padding-bottom: 10%;
 
+	border: green 2px solid;
+
 }
 
 /*SOMEFACTS DIV*/
@@ -393,6 +395,12 @@ BOTTOM SECTION
 	text-align: justify;
 
 	padding-right: 9%;
+}
+
+ul {
+	list-style: disc;
+
+	list-style-position: inside;
 }
 
 
