@@ -279,9 +279,11 @@ address {
 
 
 footer {
-	font-size: 2em;
-	/* padding: 2% 5%; */
+	font-size: 1em;
+	
 	text-align: center;
+
+	font-weight: bold;
 }
 
 
@@ -365,6 +367,34 @@ MAIN SECTION
 BOTTOM SECTION
 
 */
+
+#bottomSection {
+
+	display: flex;
+
+	padding-top: 2%;
+	
+	font-weight: bold;
+
+	justify-content: space-between;
+
+	justify-content: space-around;
+
+	padding-bottom: 10%;
+
+}
+
+/*SOMEFACTS DIV*/
+
+
+
+#someFacts p {
+
+	text-align: justify;
+
+	padding-right: 9%;
+}
+
 
 
 
