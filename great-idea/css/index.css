@@ -322,7 +322,7 @@ MAIN SECTION
 	/* width: 800px; */
 	flex-wrap: wrap;
 
-	background-color: lightgray;
+	
 
 	border-top: black solid 2px;
 	border-bottom: black solid 2px;
@@ -334,8 +334,39 @@ MAIN SECTION
 }
 
 #mainSection div {
-	width: 45%;	
+	width: 48%;	
 	justify-content: space-around;
 	justify-content: space-between;
+
+	margin: 2% 0;
+
+	background-color: gainsboro;
+	border: 2px solid black;
+
+	padding: 2%;
+
+
 }
+
+#mainSection p {
+
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#mainSection button {
+
+	border: black 1px solid;
+	border-radius: 3px;
+}
+
+/*
+
+BOTTOM SECTION
+
+*/
+
+
+
+
 
